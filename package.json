@@ -1,0 +1,22 @@
+{
+  "name": "sqpreset",
+  "version": "1.0.0",
+  "description": "Generate presets for Adobe Premiere Pro (.sqpreset)",
+  "main": "index.js",
+  "bin": {
+    "sqpreset": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "adobe",
+    "premiere",
+    "sqpreset"
+  ],
+  "author": "Remco Janssen <remco@klustre.nl> (http://www.klustre.nl)",
+  "license": "MIT",
+  "dependencies": {
+    "meow": "^8.0.0"
+  }
+}
