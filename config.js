@@ -1,6 +1,6 @@
 const helpText = `
     Usage
-    $ prp <input>
+    $ sqpreset <input>
 
     Options
     --defaults    Generates preset with default values
