@@ -3,12 +3,20 @@
 Generate sequence presets for Adobe Premiere Pro (.sqpreset)
 
 ## Usage
-Use `npx Klustre/sqpreset <input>` in your Terminal
-
-Or clone this repo and use `npm link`
-
 ```
-  Usage
+npx klustre/sqpreset <input>
+```
+```
+npm i klustre/sqpreset --global
+sqpreset <input>
+```
+```
+npm i klustre/sqpreset [--save | --save-dev]
+npx sqpreset <input>
+```
+
+## Options
+```
   $ sqpreset <input>
 
   Options
